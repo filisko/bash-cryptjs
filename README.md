@@ -1,4 +1,4 @@
-# Crypto AES-256 in GNU/Linux
+# Crypto Bash functions for GNU/Linux
 
 ## encrypt/decrypt AES-256
 ```bash
