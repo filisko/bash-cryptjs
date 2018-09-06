@@ -1,4 +1,4 @@
-# Crypto Bash functions for GNU/Linux
+# Crypto Bash functions
 
 Simple repo to collect functions of crypto standards for Bash.
 
